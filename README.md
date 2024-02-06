@@ -1,4 +1,11 @@
-![](assets/logo.png)
+<!-- ![](assets/logo.png) -->
+# ROS NODE 
+quick hack to make a ros node of this code. Inspired by https://github.com/mit-acl/fastsam_ros -- but it was missing sending messages. 
+
+```
+python ros_node.py
+```
+Make sure to have downloaded the weights, see below. 
 
 # Fast Segment Anything
 
